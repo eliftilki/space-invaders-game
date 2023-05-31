@@ -9,7 +9,7 @@ This project build with emu8086. Game will start when user press space button.
 ### Winner Screen
 ![image](https://github.com/eliftilki/space-invaders-game/blob/main/images/winnerscreen.png)
 ## Features
-The Hall Reservation System Project offers the following features:
+The Space Invaders Game offers the following features:
 - move: user can move spaceship with "a" and "d".
 - shoot: user can shoot aliens with space button.
 - alien move: aliens moves when user shoots.
