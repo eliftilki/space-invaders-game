@@ -1,7 +1,7 @@
 # Space Invaders Game
 Welcome to the space invaders project! I made this project as my term project.
 ## Introduction
-This project build with emu8086.
+This project build with emu8086. Game will start when user press space button.
 ### Welcome Screen
 ![image](https://github.com/eliftilki/space-invaders-game/blob/main/images/welcomescreen.png)
 ### Gameplay
